@@ -97,5 +97,4 @@ L'interface sera accessible sur `http://localhost:3000`
 
 ## 🤝 Contribution
 
-N'hésitez pas à contribuer au projet en proposant des améliorations ou en signalant des bugs !
-
+N'hésitez pas à contribuer au projet en proposant des améliorations ou en signalant des bugs ! 
