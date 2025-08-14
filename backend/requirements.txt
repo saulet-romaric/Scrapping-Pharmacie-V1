@@ -1,0 +1,12 @@
+# Dépendances pour le backend des pharmacies d'Abidjan
+Flask==2.3.3
+Flask-CORS==4.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+SQLAlchemy==2.0.21
+Flask-SQLAlchemy==3.0.5
+python-dotenv==1.0.0
+geopy==2.4.0
+fake-useragent==1.4.0
+
